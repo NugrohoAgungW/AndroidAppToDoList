@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDoListApp</string>
+    <string name="batal">Batal</string>
+    <string name="tambah">Tambah</string>
+</resources>
